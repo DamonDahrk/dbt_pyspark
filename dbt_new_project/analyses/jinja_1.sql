@@ -1,0 +1,1 @@
+{%- set var_name = "Samillow" -%} {{var_name}}
